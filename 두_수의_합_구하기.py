@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/106vmZCIH1yRpzHQaQBC5sIV19HMeezN3
 """
 
-# 문제: 문자열 뒤집기
+# 문제: 두 수의 합 구하기
 
 # 출처: https://school.programmers.co.kr/learn/courses/30/lessons/120802
 
